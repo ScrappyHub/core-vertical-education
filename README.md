@@ -1,23 +1,35 @@
-# CORE VERTICAL — Education
+# CORE VERTICAL — Education & Learning Systems
 
-This repository defines education-focused interpretation layers for CORE.
+This repository defines the Education vertical for CORE.
 
-It enables safe, interactive exploration of physics and systems behavior.
+It is a **safe, explainable physics platform**
+for learning and exploration.
 
-## Scope
-- Visual learning interfaces
-- Guided experiments
-- Curriculum-aligned workflows
-- Safe sandboxed exploration
+## Physics Stack
 
-## Non-Scope
-- No grading systems
-- No surveillance
-- No physics solvers
-- No governance authority
+All engines may be used, but:
+- outputs are simplified
+- safety filters are applied
+- complexity is gated
 
-## Architecture Position
-Consumes outputs from CORE engines in constrained, explainable form.
+## What This Vertical Is
+
+- A **learning environment**
+- A **visual exploration system**
+- A **guided experimentation platform**
+
+## What This Vertical Is Not
+
+- Not assessment software
+- Not surveillance
+- Not unrestricted experimentation
+
+## Registries & Lenses
+
+- Curriculum-aligned presets
+- Visualization profiles
+- Safe experiment templates
 
 ## Governance
-All features must comply with CORE safety and accessibility rules.
+
+Safety, accessibility, and clarity override depth.
